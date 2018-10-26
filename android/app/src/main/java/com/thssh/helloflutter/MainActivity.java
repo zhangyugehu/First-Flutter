@@ -1,4 +1,4 @@
-package com.zhangyugehu.firstflutterapp;
+package com.thssh.helloflutter;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
